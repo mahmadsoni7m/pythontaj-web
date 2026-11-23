@@ -2,7 +2,7 @@
   'use strict';
   /* ---- Settings you may edit ---- */
   var CFG = {
-    APK_FILE: 'PythonTaj.apk',        // the APK you upload into this repository (same folder as index.html)
+    APK_FILE: 'https://github.com/mahmadsoni7m/pythontaj-web/releases/latest/download/PythonTaj.apk',        // the APK you upload into this repository (same folder as index.html)
     VERSION: '1.0',                    // shown next to the download button
     WHATSAPP: '992008336807',          // digits only, with country code
     TELEGRAM: 'Mmmmwll',               // username without @
